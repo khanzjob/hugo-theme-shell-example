@@ -11,7 +11,7 @@ theme = "hugo-theme-shell"
     use = true
     files = [
         ["HOME", "/works/home.md"],
-        ["PROJECTS", "/works/projects.md"],
+        ["PROJECTS", "/works/projects.html"],
         ["BLOG", "/works/blog.md"],
         ["ABOUT", "/works/about.md"]
     ]
