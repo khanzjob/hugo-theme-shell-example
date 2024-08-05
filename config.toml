@@ -1,7 +1,7 @@
 baseURL = "https://hugo-theme-shell.netlify.app/"
 languageCode = "en-us"
 title = "JOEL'S SITE"
-theme = "My Portofolio"
+theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
